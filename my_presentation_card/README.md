@@ -5,7 +5,8 @@ of the marvelows Flutter pre-builded widgets for design.
 
 ## How does the final project looks like?
 
-![image](https://github.com/Pyzyryab/FlutterPractices/blob/main/my_presentation_card/images/image.png){:height="50%" width="50%"}
+![image](https://github.com/Pyzyryab/FlutterPractices/blob/main/my_presentation_card/images/image.png)
+<img src="hhttps://github.com/Pyzyryab/FlutterPractices/blob/main/my_presentation_card/images/image.png" width="500" height="500">
 
 ## What tutorial is this one?
 
