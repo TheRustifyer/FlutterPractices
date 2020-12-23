@@ -5,7 +5,7 @@ of the marvelows Flutter pre-builded widgets for design.
 
 ## What tutorial is this one?
 
-Is called `How to Build Beautiful UI's with Flutter Widgets.`.
+Is called `How to Build Beautiful UI's with Flutter Widgets.` placed on course module's.
 
 ## How does the final project looks like?
 
