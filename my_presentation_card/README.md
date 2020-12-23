@@ -1,4 +1,6 @@
-# My presentation card
+# My presentation card PROJECT
+
+## How does the final project looks like?
 
 ![image](https://github.com/Pyzyryab/FlutterPractices/blob/main/my_presentation_card/images/image.png)
 
