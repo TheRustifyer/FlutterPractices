@@ -1,6 +1,6 @@
 # My presentation card
 
-[image](https://github.com/Pyzyryab/FlutterPractices/blob/main/my_presentation_card/images/image.png)
+![image](https://github.com/Pyzyryab/FlutterPractices/blob/main/my_presentation_card/images/image.png)
 
 ## What tutorial is this one?
 
