@@ -5,9 +5,10 @@
 A new Flutter practice project, creating sensitive buttons which randomice on-touch actions
 in order to see dicee change!
 
-## What you will create
+## What you will create?
 
-We’re going to make a Las Vegas dice app. You can make the die roll at the press of a button. With this app in your pocket, you’ll be able to settle any score on the go!
+We’re going to make a Las Vegas dicee app. 
+You can make the die roll at the press of a button. With this app in your pocket, you’ll be able to settle any score on the go!
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif)
 
