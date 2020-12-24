@@ -1,6 +1,7 @@
-# dicee_app
+# Dicee App
 
-A new Flutter project.
+A new Flutter practice project, creating sensitive buttons which randomice on-touch actions
+in order to see dicee change!
 
 ## Getting Started
 
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Final Product
+
+![image](https://github.com/Pyzyryab/FlutterPractices/blob/main/dicee_app/images/proof.jpg)
