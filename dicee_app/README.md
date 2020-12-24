@@ -1,13 +1,21 @@
-# Dicee App
+# Dicee App 🎲
+
+## The goal
 
 A new Flutter practice project, creating sensitive buttons which randomice on-touch actions
 in order to see dicee change!
 
-## Getting Started
+## What you will create
 
-This project is a starting point for a Flutter application.
+We’re going to make a Las Vegas dice app. You can make the die roll at the press of a button. With this app in your pocket, you’ll be able to settle any score on the go!
 
-A few resources to get you started if this is your first Flutter project:
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif)
+
+This `What you will create` was made by the [London App Brewery](https://github.com/londonappbrewery) team!
+
+## Flutter docs and resources
+
+A few things that will help you to get started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
